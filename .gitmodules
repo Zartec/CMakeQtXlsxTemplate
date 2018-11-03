@@ -1,0 +1,3 @@
+[submodule "3rd_party/xlnt"]
+	path = 3rd_party/xlnt
+	url = https://github.com/tfussell/xlnt.git
